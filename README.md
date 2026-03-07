@@ -91,13 +91,7 @@ Backend monorepo powering multiple production APIs and Telegram bots.
 
 Architecture:
 
-controllers  
-routes  
-models  
-services  
-middleware  
-workers  
-seed  
+controllers, routes, models, services, middleware, workers, seed  
 
 Features:
 
@@ -180,15 +174,6 @@ TypeScript • Vitest • npm publishing workflow
 - CI checks with GitHub Actions
 - strict TypeScript typing
 - automated testing (Vitest / Playwright)
-
----
-
-## GitHub Stats
-
-<p>
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=rshval&show_icons=true&theme=transparent"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rshval&layout=compact&theme=transparent"/>
-</p>
 
 ---
 
