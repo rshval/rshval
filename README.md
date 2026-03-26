@@ -34,6 +34,41 @@ My projects follow modular architecture, strong typing with TypeScript, API docu
 
 ---
 
+## E-commerce Development Capabilities
+
+Production e-commerce delivery across storefronts, admin flows, checkout, and integrations.
+
+### Storefront & UX
+- product listing and search
+- product detail pages (PDP)
+- filters, sorting, and faceted navigation
+- cart and wishlist flows
+- responsive/mobile-first layouts
+- SEO-ready SSR pages
+
+### Checkout & Order Flow
+- multi-step checkout
+- delivery and pickup scenarios
+- promo codes and discount rules
+- order lifecycle management
+- transactional notifications (email/messenger)
+
+### Payments & Integrations
+- payment gateway integrations
+- shipping provider integrations
+- CRM/ERP/API integrations
+- webhook processing and retry logic
+- audit logging for payment/order events
+
+### Catalog & Content
+- category trees and attributes
+- SKU/variant modeling (size/color/etc.)
+- media/document management
+- bulk import/export tools
+- admin-side content controls
+
+---
+
 ## Tech Stack
 
 ### Backend
